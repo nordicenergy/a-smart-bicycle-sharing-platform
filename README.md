@@ -18,7 +18,7 @@ Times are changing and nowadays new concepts like 'e-bike sharing' are becoming 
 
 ### Architecture
 
-##### Software
+#### Software
 
 Backend: NodeJS, ... Frontend: JavaSript, React, ...
 
@@ -36,7 +36,7 @@ Backend: NodeJS, ... Frontend: JavaSript, React, ...
  
 - Location is a spot where bikes can
 
-##### Roles:
+#### Roles:
 
 member
 admin
