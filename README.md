@@ -18,17 +18,21 @@ Times are changing and nowadays new concepts like 'e-bike sharing' are becoming 
 
 ### Architecture
 
-##### Software
+##### Software Backend: NodeJS, ... Frontend: JavaSript, React, ...
 
-Backend: NodeJS, ... Frontend: JavaSript, React, ...
+#### Data structure - main objects
 
-Data structure - main objects
-Person: Natural persons and legal persons (organizations) who want to use bike sharing. A person has a status: [new] [active] [ended] [blocked]. Status [active] is required to use the full service.
-Contract: A person needs a contract to use bikes. The contract defines the relationship between the person and the (membership)provider. Each contract has a Contract Owner (a Person) wich is responsible for all users on his contract. He is responsible for the payment. A contract Owner can invite other persons on his contract to use the service. For example a company who allows staff to use the bikes or family members biking together on one contract. A contract has an Contract Type.
-Contract Type defines the fleets of resources [fleets] Persons may use. Contract Type also defines the rates (price of bike use).
-Fleet is a collection of resources (bikes). A resource is in (exactly) one fleet.
-Resource is an item that is for rent (bike).
-Location is a spot where bikes can
+- Person: Natural persons and legal persons (organizations) who want to use bike sharing. A person has a status: [new] [active] [ended] [blocked]. Status [active] is required to use the full service.
+ 
+- Contract: A person needs a contract to use bikes. The contract defines the relationship between the person and the (membership)provider. Each contract has a Contract Owner (a Person) wich is responsible for all users on his contract. He is responsible for the payment. A contract Owner can invite other persons on his contract to use the service. For example a company who allows staff to use the bikes or family members biking together on one contract. A contract has an Contract Type.
+ 
+- Contract Type defines the fleets of resources [fleets] Persons may use. Contract Type also defines the rates (price of bike use).
+ 
+- Fleet is a collection of resources (bikes). A resource is in (exactly) one fleet.
+ 
+- Resource is an item that is for rent (bike).
+ 
+- Location is a spot where bikes can
 
 ##### Roles:
 
