@@ -1,1 +1,1 @@
-# a-smart-bicycle-sharing-platform
+# ReBike - A Smart Bicycle Sharing Platform
