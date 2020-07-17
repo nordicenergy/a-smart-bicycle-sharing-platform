@@ -37,7 +37,7 @@ Backend: NodeJS, ... Frontend: JavaSript, React, ...
  
 - Resource is an item that is for rent (bike).
  
-- Location is a spot where bikes can
+- Location is a spot where bikes can be.
 
 #### Roles:
 
