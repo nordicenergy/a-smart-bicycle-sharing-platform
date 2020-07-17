@@ -18,7 +18,9 @@ Times are changing and nowadays new concepts like 'e-bike sharing' are becoming 
 
 ### Architecture
 
-##### Software Backend: NodeJS, ... Frontend: JavaSript, React, ...
+##### Software
+
+Backend: NodeJS, ... Frontend: JavaSript, React, ...
 
 #### Data structure - main objects
 
