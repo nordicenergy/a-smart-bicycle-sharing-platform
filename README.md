@@ -9,7 +9,7 @@ The Rebike´s bicyce sharing app is easy to use for every user. if you want a bi
 ReBike´s Smart Mobility is able to connect to electronic (bluetooth) bike locks so people can unlock bikes with their phone. ReBike can also be used in a staffed situation where an employee hands over the bike (or bike key).
 
 
-### Proof of Concept(PoC)
+### Proof of Concept (PoC)
 
 Rebike is a blockchain application platform. Blockchain has a lot of benefits compared to traditional means of storing data on a public network, but the major downside is that the technology is very complex. The goal of the ReBike project is to take away the barrier to entry and make it easy for Javascript developers to build their application on the Blockchain. We like to showcase a Proof of Concept that can be made with the current state of the ReBike Software Development Kit. The application is called ReBike - SmartMobility.
  
